@@ -4,11 +4,11 @@ I've been developing for a couple months now, I have primarily been working with
 I am currently not for hire as I am still focusing on extending my knowledge.
 
 
-Skills: C#, JavaScript, Html, CSS
+Skills: C#, Lua, Blender
 
 - 🔭 I’m currently working on Smaller Projects for practice aswell as modelling random stuff. xD 
 - 🌱 I’m currently learning Programming, and Modelling 
-- 📫 How to reach me: Discord: Cymino#5511 
+- 📫 How to reach me: Discord: Cymino
 - 😄 Pronouns: He/Him 
 
 
